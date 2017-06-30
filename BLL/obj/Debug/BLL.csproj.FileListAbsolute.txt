@@ -1,0 +1,7 @@
+F:\test\code\BLL\bin\Debug\BLL.dll
+F:\test\code\BLL\bin\Debug\BLL.pdb
+F:\test\code\BLL\bin\Debug\DAL.dll
+F:\test\code\BLL\bin\Debug\DAL.pdb
+F:\test\code\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\test\code\BLL\obj\Debug\BLL.dll
+F:\test\code\BLL\obj\Debug\BLL.pdb

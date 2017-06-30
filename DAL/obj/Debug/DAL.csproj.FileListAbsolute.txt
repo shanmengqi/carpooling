@@ -1,0 +1,4 @@
+F:\test\code\DAL\bin\Debug\DAL.dll
+F:\test\code\DAL\bin\Debug\DAL.pdb
+F:\test\code\DAL\obj\Debug\DAL.dll
+F:\test\code\DAL\obj\Debug\DAL.pdb
